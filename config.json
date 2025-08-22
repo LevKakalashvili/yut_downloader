@@ -4,16 +4,16 @@
   "convert_to_audio": false,
   "video_format": "mp4",
   "audio_format": "mp3",
-  "audio_bitrate": 192,
+  "audio_bitrate": 512,
   "quality": "best",
   "proxy": "",
   "stop_on_error": false,
   "items": [
     {
-      "url": "https://youtu.be/wVrt6qi9SkM?si=gD5gLZxVSyi93114",
+      "url": "https://youtu.be/aHTpHcokyX8?si=ycgI50-v4ie0YfMs",
       "type": "audio",
       "audio_format": "mp3",
-      "audio_bitrate": 192
+      "audio_bitrate": 512
     }
   ]
 }
